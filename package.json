@@ -1,6 +1,6 @@
 {
   "name": "ent-hapi-cls",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "continuation local storage for hapi 8",
   "main": "lib/index.js",
   "directories": {
